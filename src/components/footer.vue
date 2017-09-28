@@ -21,7 +21,7 @@
 		position: fixed;
 		left: 0;
 		bottom: 0;
-		background: #ccc;
+		background: #fff;
 	}
 	.footer ul {
 		width: 100%;
